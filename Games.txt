@@ -5,7 +5,8 @@ Chess
 Carram
 Building blocks
 Shuttle Badminton 
-Volleyball 
+Volleyball
+hockey
 
 
 This is the Final copy
